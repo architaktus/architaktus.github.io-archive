@@ -1,6 +1,0 @@
-# Ignore everything
-*
-# But not these directories and files
-.gitignore
-.github/
-!architaktus.github.io/*
