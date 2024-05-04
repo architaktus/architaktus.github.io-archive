@@ -1,177 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World 2</title>
-    <url>/2023/11/08/hello-world%20-%20Copy%20(2)/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-      <categories>
-        <category>ThemaA</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>Hello World 3</title>
-    <url>/2023/11/08/hello-world%20-%20Copy%20(3)/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-      <categories>
-        <category>ThemaA</category>
-        <category>ThemaB</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>Hello World 4</title>
-    <url>/2023/11/08/hello-world%20-%20Copy%20(4)/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-      <categories>
-        <category>ThemaA</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>Hello World 5</title>
-    <url>/2023/09/08/hello-world%20-%20Copy%20(5)/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-      <categories>
-        <category>ThemaA</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>Hello World z</title>
-    <url>/2021/10/08/hello-world%20-%20Copy%20(6)/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-      <categories>
-        <category>ThemaB</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>Hello World a</title>
-    <url>/2023/12/08/hello-world%20-%20Copy%20(7)/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-      <categories>
-        <category>ThemaA</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>Hello World B</title>
-    <url>/2023/11/08/hello-world%20copy/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-      <categories>
-        <category>ThemaB</category>
-        <category>Thema 3</category>
-        <category>Subthema 3.1</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>Hello World</title>
-    <url>/2023/11/08/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-      <categories>
-        <category>ThemaA</category>
-      </categories>
-  </entry>
-  <entry>
     <title>泛舟禅师塔</title>
     <url>/2024/04/08/%E6%B3%9B%E8%88%9F%E7%A6%85%E5%B8%88%E5%A1%94/</url>
     <content><![CDATA[<p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/%E6%B3%9B%E8%88%9F%E7%A6%85%E5%B8%88%E5%A1%94.jpg/250px-%E6%B3%9B%E8%88%9F%E7%A6%85%E5%B8%88%E5%A1%94.jpg" alt="泛舟禅师塔_img_1"></p>
@@ -180,15 +9,15 @@
 <h1 id="区位"><a href="#区位" class="headerlink" title="区位"></a>区位</h1><h1 id="整体"><a href="#整体" class="headerlink" title="整体"></a>整体</h1><p>![[泛舟禅师塔_img_2.jpg]]</p>
 <h1 id="建筑单元"><a href="#建筑单元" class="headerlink" title="建筑单元"></a>建筑单元</h1><h2 id="外"><a href="#外" class="headerlink" title="外"></a>外</h2><h2 id="内"><a href="#内" class="headerlink" title="内"></a>内</h2><h2 id="梁架"><a href="#梁架" class="headerlink" title="梁架"></a>梁架</h2><h2 id="铺作"><a href="#铺作" class="headerlink" title="铺作"></a>铺作</h2><h1 id="金石"><a href="#金石" class="headerlink" title="金石"></a>金石</h1><h1 id="备注-🔗"><a href="#备注-🔗" class="headerlink" title="备注&amp;🔗"></a>备注&amp;🔗</h1>]]></content>
       <categories>
-        <category>古建筑</category>
-        <category>ThemaA</category>
+        <category>历史 城市 建筑</category>
       </categories>
       <tags>
         <tag>置顶</tag>
+        <tag>中国古典建筑</tag>
       </tags>
   </entry>
   <entry>
-    <title>Gutgut塔:百家岩寺塔</title>
+    <title>豫北古塔:百家岩寺塔</title>
     <url>/2024/03/08/%E7%99%BE%E5%AE%B6%E5%B2%A9%E5%AF%BA%E5%A1%94/</url>
     <content><![CDATA[<h1 id="Info"><a href="#Info" class="headerlink" title="Info"></a>Info</h1><p><strong>备注</strong>：<br><strong>别名</strong>：孝女塔<br><strong>Scope</strong>： #Built-Envir&#x2F;Scope-尺度&#x2F;4_Unit&#x2F;c_建筑单体<br><strong>状态&amp;保护等级</strong>： #Built-Envir&#x2F;H_历史信息&#x2F;DP-等级&#x2F;CN&#x2F;A_全国重点文保&#x2F;6（2006）<br><strong>类型</strong>：<br>    功能： #Built-Envir&#x2F;Architecture&#x2F;Type_Prog功能&#x2F;Religion&#x2F;塔&#x2F;寺塔<br>    形式：<br>        #Built-Envir&#x2F;Architecture&#x2F;CN形制&#x2F;塔&#x2F;楼阁式&#x2F;9级<br>        #Built-Envir&#x2F;Architecture&#x2F;T_Form平面&#x2F;正多边形&#x2F;8边形<br>    材料：<br>    结构与构造：<br><strong>时代&amp;风格</strong>：<br> #Period&#x2F;0_Era<br> #Period&#x2F;CN&#x2F;金<br><strong>建造历史</strong>：<br><strong>地址</strong>：河南省焦作市修武县岸上乡百家岩景区<br>修武县七贤镇天门瀑布南、西白涧西岸的孝女崖上<br> #G_Location&#x2F;CHN&#x2F;HN河南&#x2F;JZ焦作&#x2F;XW修武<br> #G_地望类型&#x2F;因地制宜&#x2F;山&#x2F;山崖<br>  #G_Location&#x2F;CHN&#x2F;区位&#x2F;豫北<br><strong>布局&amp;面积</strong>：坐西朝东，平面呈八角形，为九级楼阁式砖塔，高26.15米。</p>
 <h1 id="描述"><a href="#描述" class="headerlink" title="描述"></a>描述</h1><p>该塔内部结构、阑额做法、菱形散斗、五角形交互斗、斜栱和峰棱华栱风格及斗之耳、平、欹比例关系等均具有明显的承宋启元特征</p>
@@ -223,10 +52,102 @@
 </ul>
 <h3 id="铺作"><a href="#铺作" class="headerlink" title="铺作"></a>铺作</h3>]]></content>
       <categories>
-        <category>ThemaA</category>
+        <category>历史 城市 建筑</category>
       </categories>
       <tags>
         <tag>置顶</tag>
+        <tag>中国古典建筑</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>云南古城选址</title>
+    <url>/2024/03/29/%E4%BA%91%E5%8D%97%E5%8F%A4%E5%9F%8E%E9%80%89%E5%9D%80/</url>
+    <content><![CDATA[<h1 id="笔记"><a href="#笔记" class="headerlink" title="笔记"></a>笔记</h1><p>#Excerpt-摘抄</p>
+<h2 id="按"><a href="#按" class="headerlink" title="按"></a>按</h2><p>云南很多的古城遗址（如龙于图山城、姚州都督府）和老县城都建在交通不便、平地狭小的山坡上、山顶。</p>
+<p>另，还有一个原因，以前交通贸易都靠马帮，马帮要翻山越岭，物资交流的地方建在山坡上更为合理</p>
+<h2 id="原文来源"><a href="#原文来源" class="headerlink" title="原文来源"></a>原文来源</h2><p>《恋地情结》</p>
+<h1 id="原文"><a href="#原文" class="headerlink" title="原文"></a>原文</h1><p>![[云南古城选址_img_1.jpg]]</p>
+]]></content>
+      <categories>
+        <category>历史 城市 建筑</category>
+      </categories>
+      <tags>
+        <tag>城市规划</tag>
+        <tag>古代中国</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>古代货币购买力</title>
+    <url>/2024/02/06/%E5%8F%A4%E4%BB%A3%E8%B4%A7%E5%B8%81%E8%B4%AD%E4%B9%B0%E5%8A%9B/</url>
+    <content><![CDATA[<h1 id="笔记"><a href="#笔记" class="headerlink" title="笔记"></a>笔记</h1><h2 id="按"><a href="#按" class="headerlink" title="按"></a>按</h2><h2 id="原文来源"><a href="#原文来源" class="headerlink" title="原文来源"></a>原文来源</h2><h1 id="原文"><a href="#原文" class="headerlink" title="原文"></a>原文</h1><p>清朝中晚期150—220元左右;<br>明朝中期600—800元;<br>    明朝万历年间一两银子可以购买一般质量的大米二石，当时的一石约为94.4公斤，一两银子就可以买188.8公斤大米，就是377.6斤。现在我国一般家庭吃的大米在一斤1.5元至2元之间，以中间价1.75元计算，可以算出:明朝一两银子&#x3D;人民币660.8元<br>北宋朝中期600元—1300元(或1000—1800元);<br>    《宋史食货志》提到“熙、丰以前，米石不过六七百”和《宋史职官志》“每斗(米)折钱三十文”的记载，姑且以2000个铜钱折银一两计算，太平时期米价是1石600—300钱。1两基本上可以买到4—8石大米，以宋石66公斤计算，1两银子相当于人民币近924—1848元<br>盛唐时期2000—4000元<br>    唐太宗贞观年间一斗米只卖5文钱，通常一两银子折1000文铜钱(又称一贯)，就可以买200斗米，10斗为一石，即是20石，唐代的一石约为59公斤，以今天一般米价1.75元一斤计算，一两银子相当于人民币4130元的购买力。<br>　　唐玄宗开元年间通货膨胀，米价涨到10文一斗，也是一两银子&#x3D;2065元人民币</p>
+<p>2018年 <a href="http://m.xinhuanet.com/gz/2018-06/25/c_1123030215.htm">http://m.xinhuanet.com/gz/2018-06/25/c_1123030215.htm</a></p>
+<h1 id="古代钱币当时的购买力"><a href="#古代钱币当时的购买力" class="headerlink" title="古代钱币当时的购买力"></a>古代钱币当时的购买力</h1><p>2013 <a href="https://xueqiu.com/5082116371/23815486">https://xueqiu.com/5082116371/23815486</a></p>
+<p><strong>古代钱币当时的购买力</strong><br>（元后，白银大量涌入中国，成为主导货币，之前的一贯钱也就是1000钱相当于一两银子，之后每个时期大体围绕着这个数字上下波动）<br>汉文帝，一贯钱&#x3D;2500元  </p>
+<p>唐早期  一贯钱&#x3D;7000元  </p>
+<p>唐玄宗，一贯钱&#x3D;420元  </p>
+<p>宋早期  一贯钱&#x3D;4000元  </p>
+<p>宋仁宗  一贯钱&#x3D;460元  </p>
+<p>宋神宗前期 一贯钱&#x3D;360元  </p>
+<p>宋哲宗    一贯钱&#x3D;1200元  </p>
+<p>元仁宗    一两银子&#x3D;50元？  </p>
+<p>明 洪武   一两银子&#x3D;830元  </p>
+<p>明永乐仁宣一两银子&#x3D;1250元  </p>
+<p>明万历    一两银子&#x3D;300元  </p>
+<p>清康熙    一两银子&#x3D;530元  </p>
+<p>清乾隆    一两银子&#x3D;250元  </p>
+<p>经济发展一定会伴随着或多或少的通货膨胀，最后严重的通胀让经济崩溃王朝覆灭  </p>
+<p>顺便吐槽一下电视剧电影中任何朝代都用银两，更吓人的是居然随手就花几十两甚至上千两。  </p>
+<p><strong>历朝历代盛世时期人均收入 （折算人民币）             盛世比例</strong>  </p>
+<p>汉  0.9万                                                                         38%  </p>
+<p>唐  0.7万（后期治世为0.5万左右）                                 52%  </p>
+<p>宋  2万（普通盛世为0.8万-1.2万）                                 57%  </p>
+<p>元  0.6万                                                                        20%  </p>
+<p>明  0.6万（万历时期0.4万）                                           56%  </p>
+<p>清  0.36万                                                                      47%  </p>
+<p>这里的人均收入包括非劳动力，古代一般一户五口，则家庭总收入应该乘以5，而一户人赚钱的人是1~2人，则赚钱人的人均收入大概是上面表中的数据乘以2.5，也就是说宋朝的可以有5万，而清朝不到1万。  </p>
+<p><strong>城镇化率</strong>  </p>
+<p>汉朝30%  唐朝25%  宋朝元丰年间35%  明朝15%   清朝6%-9% 民国10%  </p>
+<p>我们现在扣除农民工后城镇化率也只有40%，城镇化率往往可以作为工商业发展水平的标志。以宋朝为例，熙宁10年（1077）税赋收入7070万贯，其中两税（农业税）2162万贯，占30%，工商税4911万贯，占70%。  </p>
+<p><strong>历代人均粮食占有量（市斤）</strong><br>时期：汉代   盛唐    中唐晚唐   盛宋    元朝     明中后期 清初盛世  晚晴  30‘民国    现在<br>人均：900 　1256　   下降     1333　  1000    1100　     1200　  532     650       900  </p>
+<p>有两点要说明一下，首先古代是以农业为基础而且当时人口只有数千万到一亿，粮食占有率高也是正常的。其次，不知道大家注意过相对偏远一点农民大叔吃饭的架势没有，他们粮食的消耗量一定是远远大于城镇人，这与劳动量和食用油的使用率很有关系，因此古代人的饭量比现代人大也是正常的，因为劳动量大且食用油使用率低  </p>
+<p><strong>历代亩产</strong>  </p>
+<p>战国 亩产216斤 汉朝264斤 三国两晋南北朝 260斤 唐朝 334斤 宋朝 355斤 元朝338斤 明初年340年平均360斤 清初 370斤 清末250斤  民国200-300斤  现在1000斤  </p>
+<p>作者：西雨牛仔<br>链接：<a href="https://xueqiu.com/5082116371/23815486">https://xueqiu.com/5082116371/23815486</a><br>来源：雪球<br>著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。<br>风险提示：本文所提到的观点仅代表个人的意见，所涉及标的不作推荐，据此买卖，风险自负。</p>
+]]></content>
+      <categories>
+        <category>历史 城市 建筑</category>
+      </categories>
+      <tags>
+        <tag>古代中国</tag>
+        <tag>经济</tag>
+        <tag>摘抄</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>音频</title>
+    <url>/2023/03/08/%E9%9F%B3%E9%A2%91/</url>
+    <content><![CDATA[<h1 id="bitrate-采样率-×-位深度-×-声道数"><a href="#bitrate-采样率-×-位深度-×-声道数" class="headerlink" title="bitrate = 采样率 × 位深度 × 声道数"></a><code>bitrate = 采样率 × 位深度 × 声道数</code></h1><p>   * bitrate&#x2F;比特率： &#x2F;bps 每秒传输的比特数 - 音频的空间分辨率 (128 kbps)<br>   * <a href="https://developer.mozilla.org/en-US/docs/Web/API/BaseAudioContext/sampleRate">sampleRate</a>&#x2F;采样率： &#x2F;Hz:  频率范围 - 音频的时间分辨率（44.1kHz）<br>   *  bitDepth&#x2F;位深度: &#x2F;bit:<br>是指编码音频数据时每秒传输的比特数。它是衡量音频文件大小和音质的重要指标。比特率是由位深度、采样率和声道数共同决定的。</p>
+<h3 id="bitDepth（位深度）"><a href="#bitDepth（位深度）" class="headerlink" title="bitDepth（位深度）"></a>bitDepth（位深度）</h3><ul>
+<li><strong>定义</strong>：<code>bitDepth</code> 指的是音频采样的精度，也就是说每个音频样本用多少位（bit）来表示。位深度决定了可以表示的声音的<strong>动态范围</strong>（从最小值到最大值的范围），以及理论上的<strong>信噪比</strong>。常见的位深度有 16位、24位和32位。位深度越高，可以表示的声音细节越多，录制出的音质也就越好，但相应的数据量也越大。    </li>
+<li><strong>用途</strong>：位深度在数字音频采样和录制过程中非常重要。例如，CD音质通常是16位的，而专业音频制作可能使用24位或更高，以获取更大的动态范围和更细腻的音质。    </li>
+<li><strong>例子</strong>：假设你正在录制一段音乐，并希望保留更多的动态范围和细节，你可能会选择24位的位深度来进行录制。</li>
+</ul>
+<h1 id="振荡器"><a href="#振荡器" class="headerlink" title="振荡器"></a>振荡器</h1><p>产生特定频率和波形</p>
+<ul>
+<li>物理世界的振荡器：<ul>
+<li>基本原理是在一个放大电路中引入正反馈回路，使系统产生<a href="https://www.eefocus.com/baike/1572010.html">自激振荡</a>。当系统开始自行振荡时，回路中的振荡信号经过放大后再次进入回路，进而增强自己，从而使振荡信号不断放大直到达到一个稳定的状态。振荡器的工作频率取决于回路的特性和放大电路的增益。</li>
+<li><a href="https://www.eefocus.com/baike/512437.html">https://www.eefocus.com/baike/512437.html</a></li>
+</ul>
+</li>
+<li>WebAPI: audioContext的方法.createOscillator<ul>
+<li>[[WebAPI 音频#OscillatorNode]]</li>
+</ul>
+</li>
+</ul>
+<h1 id="Matroska-（mkv包装）"><a href="#Matroska-（mkv包装）" class="headerlink" title="Matroska （mkv包装）"></a>Matroska （mkv包装）</h1><p>官方文件<br><a href="https://www.matroska.org/technical/codec_specs.html">https://www.matroska.org/technical/codec_specs.html</a></p>
+]]></content>
+      <categories>
+        <category>技术</category>
+      </categories>
   </entry>
 </search>
