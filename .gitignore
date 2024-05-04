@@ -3,4 +3,4 @@
 # But not these directories and files
 .gitignore
 .github/
-!architaktus.github.io/
+!architaktus.github.io/*
